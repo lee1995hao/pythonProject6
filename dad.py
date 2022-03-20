@@ -27,4 +27,3 @@ model.predict(test_data)
 plt.figure()
 plt.imshow(test_images[0])
 plt.show()
-import sklearn as sk
